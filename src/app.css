@@ -7,6 +7,10 @@
     flex-direction: column;
 }
 
+body {
+    background: lightgrey;
+}
+
 h1 {
     font-size: 50px;
 }
